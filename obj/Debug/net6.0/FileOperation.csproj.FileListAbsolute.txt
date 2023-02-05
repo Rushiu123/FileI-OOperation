@@ -1,0 +1,15 @@
+C:\New Git 236\FileOperation\FileOperation\FileOperation\bin\Debug\net6.0\FileOperation.exe
+C:\New Git 236\FileOperation\FileOperation\FileOperation\bin\Debug\net6.0\FileOperation.deps.json
+C:\New Git 236\FileOperation\FileOperation\FileOperation\bin\Debug\net6.0\FileOperation.runtimeconfig.json
+C:\New Git 236\FileOperation\FileOperation\FileOperation\bin\Debug\net6.0\FileOperation.dll
+C:\New Git 236\FileOperation\FileOperation\FileOperation\bin\Debug\net6.0\FileOperation.pdb
+C:\New Git 236\FileOperation\FileOperation\FileOperation\obj\Debug\net6.0\FileOperation.csproj.AssemblyReference.cache
+C:\New Git 236\FileOperation\FileOperation\FileOperation\obj\Debug\net6.0\FileOperation.GeneratedMSBuildEditorConfig.editorconfig
+C:\New Git 236\FileOperation\FileOperation\FileOperation\obj\Debug\net6.0\FileOperation.AssemblyInfoInputs.cache
+C:\New Git 236\FileOperation\FileOperation\FileOperation\obj\Debug\net6.0\FileOperation.AssemblyInfo.cs
+C:\New Git 236\FileOperation\FileOperation\FileOperation\obj\Debug\net6.0\FileOperation.csproj.CoreCompileInputs.cache
+C:\New Git 236\FileOperation\FileOperation\FileOperation\obj\Debug\net6.0\FileOperation.dll
+C:\New Git 236\FileOperation\FileOperation\FileOperation\obj\Debug\net6.0\refint\FileOperation.dll
+C:\New Git 236\FileOperation\FileOperation\FileOperation\obj\Debug\net6.0\FileOperation.pdb
+C:\New Git 236\FileOperation\FileOperation\FileOperation\obj\Debug\net6.0\FileOperation.genruntimeconfig.cache
+C:\New Git 236\FileOperation\FileOperation\FileOperation\obj\Debug\net6.0\ref\FileOperation.dll
